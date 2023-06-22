@@ -1,0 +1,32 @@
+
+body {
+    background-color: black;
+}
+style {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: white;
+    text-align: justify;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+li {
+    color: white;
+}
+h3 {
+    color: white;
+}
+link {
+    color: white;
+}
+div h1 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
